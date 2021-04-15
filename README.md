@@ -1,4 +1,4 @@
-# The ONE v1.5.1 - Readme
+The ONE v1.5.1 - Readme
 =======================
 
 The ONE is a Opportunistic Network Environment simulator which provides a
@@ -30,13 +30,11 @@ Select "DTNConsoleConnection.jar" under the "lib" folder
 Add the "ECLA.jar" the same way
 Press "OK".
 
+
 In order to set the default path to the project folder (optional) do the following
 1. Click Run -> Run Configurations 
-
-
 2. Click the Arguments tab
 3. Click 'Other' instead of 'Default' and set path to src by clicking on the workspace button. Now it must look like '${workspace_loc:Project_name/src}'
-
 
 4. Click Apply 
 Now run the DTNSim.java in the core folder. Your project will run with 'default_settings.txt' as the settings file.
@@ -53,7 +51,7 @@ Now to use cmd in eclipse:
                    5. Click Run.
 
 Now Eclipse should be able to compile the ONE without warnings.
-
+ to reffere to this article please visit: http://one-simuator-for-beginners.blogspot.com/2013/08/how-to-integrate-one-with-eclipse.html
 
 Running
 -------
